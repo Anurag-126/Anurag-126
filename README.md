@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag-126
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning c++.
+- 🌱 Currently learning c++.
 - 😄 Pronouns: he/him
 
 <!---
